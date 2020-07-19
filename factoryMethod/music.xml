@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<artists>
+    <artist name="ベートヴェン">
+        <music name="ピアノソナタ第23版へ短調[熱情]"/>
+    </artist>
+    <artist name="モーツァルト">
+        <music name="魔笛"/>
+    </artist>
+    <artist name="ドヴォルザーク">
+        <music name="交響曲第９番ホ短調"/>
+    </artist>
+</artists>
